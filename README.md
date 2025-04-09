@@ -1,4 +1,2 @@
 "# deepfocus" 
 "# deepfocus" 
-"# deepfcous" 
-"# deepfcous" 
